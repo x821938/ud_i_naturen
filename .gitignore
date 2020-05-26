@@ -1,0 +1,5 @@
+.vscode
+data
+credentials.py
+*.pyc
+__pycache__
